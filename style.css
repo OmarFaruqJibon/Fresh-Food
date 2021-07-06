@@ -4,7 +4,7 @@ body{
 }
 h2{
     font-size:30px;
-    color: #6F6F6F;
+    color: #3a3a3a;
 }
 h3{
     font-size:20px;
@@ -17,17 +17,16 @@ p{
 .title_part{
     margin-top: 90px;
 }
-.top-section h1{
+.top-area h1{
     font-size: 50px;
     font-family: 'Kanit', sans-serif;
     color: #565656;
 }
-.top-section p{
+.top-area p{
     color: #565656;
     font-size: 16px;
     padding-bottom: 20px;
 }
-
 .flexible{
     display: flex;
     margin-bottom: 90px;
@@ -48,6 +47,7 @@ p{
 }
 
 /* top area style finished here*/
+
 .About-Area {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
@@ -83,6 +83,21 @@ p{
 
 /* My recipy area style finished here*/
 
+.gallery-area h2{
+    text-align: center;
+}
+.gallery-item{
+    width: 24%;
+}
+.gallery-item img{
+    width: 100%;
+    margin-left: 30%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px #c7c7c7;
+}
+
+/* Gallery area style finished here*/
+
 .social-information{
     border-radius:20px;
     box-shadow: 10px 10px 40px #c7c7c7;
@@ -117,7 +132,7 @@ footer h2{
     margin-top: 5px;
 }
 footer p{
-    color: #fff;
+    color: rgb(230, 230, 230);
     margin-bottom: 30px;
     font-size: 12px;
 }
