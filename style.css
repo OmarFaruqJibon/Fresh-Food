@@ -108,3 +108,17 @@ p{
 }
 
 /* Social Information area style finished here*/
+
+footer{
+    background-color: #0A0C16;
+    text-align: center;
+    padding: 10px 10px;
+}
+footer h2{
+    color: #5B5B5B;
+}
+footer p{
+    color: #fff;
+    margin-bottom: 30px;
+    font-size: 12px;
+}
