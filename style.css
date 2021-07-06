@@ -14,11 +14,11 @@ p{
     color: #313131;
     font-size: 16px;
 }
-.title_div{
-    margin-top: 110px;
+.title_part{
+    margin-top: 90px;
 }
 .top-section h1{
-    font-size: 45px;
+    font-size: 50px;
     font-family: 'Kanit', sans-serif;
     color: #565656;
 }
@@ -30,7 +30,7 @@ p{
 
 .flexible{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
 }
 .half-width{
     width: 50%;
@@ -42,7 +42,7 @@ p{
 .link_button{
     color: white;
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(orange, #ff5454);
     padding: 11px 23px;
     border-radius: 20px;
 }
@@ -54,8 +54,7 @@ p{
     background-size:100%;
 }
 .About-Area img{
-    width: 50%;
-    padding-left: 100px;
+    width: 100%;
 }
 .text-area{
     padding-top: 93px;
@@ -73,10 +72,9 @@ p{
 .recipy-item{
     width: 23%;
     margin-left: 7%;
-    border: 5px solid white;
     border-radius:20px;
     box-shadow: 10px 10px 40px gray;
-    padding: 5px;
+    padding: 10px;
 }
 .recipy-item img{
     width: 100%;
@@ -88,8 +86,8 @@ p{
 .social-information{
     border-radius:20px;
     box-shadow: 10px 10px 40px gray;
-    padding: 20px;
-    width: 85%;
+    padding: 30px;
+    width: 83%;
     margin-left: 90px;
 }
 .info-items{
@@ -112,10 +110,11 @@ p{
 footer{
     background-color: #0A0C16;
     text-align: center;
-    padding: 10px 10px;
+    padding: 25px 0px;
 }
 footer h2{
     color: #5B5B5B;
+    margin-top: 5px;
 }
 footer p{
     color: #fff;
