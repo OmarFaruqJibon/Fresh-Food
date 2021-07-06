@@ -63,6 +63,9 @@ p{
 .About-Area p{
     padding-bottom: 60px;
 }
+
+/* About me area style finished here*/
+
 .first-part{
     text-align: center;
     margin-bottom: 50px;
@@ -79,3 +82,29 @@ p{
     width: 100%;
     border-radius: 20px;
 }
+
+/* My recipy area style finished here*/
+
+.social-information{
+    border-radius:20px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px;
+    width: 85%;
+    margin-left: 90px;
+}
+.info-items{
+    width: 30%;
+    padding-left: 2%;
+}
+.info-items h1{
+    font-size: 30px;
+    margin-bottom: 4px;
+    margin-top: 15px;
+    text-align: center;
+}
+.info-items p{
+    font-size: 11px;
+    text-align: center;
+}
+
+/* Social Information area style finished here*/
