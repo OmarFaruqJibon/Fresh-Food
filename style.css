@@ -73,7 +73,7 @@ p{
     width: 23%;
     margin-left: 7%;
     border-radius:20px;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px #c7c7c7;
     padding: 10px;
 }
 .recipy-item img{
@@ -85,7 +85,7 @@ p{
 
 .social-information{
     border-radius:20px;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px #c7c7c7;
     padding: 30px;
     width: 83%;
     margin-left: 90px;
