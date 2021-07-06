@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+.title_div{
+    margin-top: 110px;
+}
+.top-section h1{
+    font-size: 45px;
+    font-family: 'Kanit', sans-serif;
+    color: #565656;
+}
+.top-section p{
+    color: #565656;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+h2{
+    font-size:30px;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link_button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 11px 23px;
+    border-radius: 20px;
+}
